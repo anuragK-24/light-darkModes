@@ -1,0 +1,53 @@
+p{
+    color:white;
+    font-size: 20px;
+    font-style: initial;
+  }
+   h1
+   {
+     font-size:40px;
+     font-family: Arial, Helvetica, sans-serif;
+     color:hsl(184, 53%, 53%);  
+   }
+   a{
+     color: hsl(0, 100%, 78%);
+     font-size:40px ;
+     font-family: sans-serif;
+     text-decoration: none;
+   }
+  .d1
+  {
+    position:sticky;
+    top:2px;
+    right:200px;
+    color: #66c2ff;
+    font-size: 50px ;
+    background:url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fminions-4k-8k-despicable-me-3-white-background-yellow-wallpaper-qnuhs&psig=AOvVaw3isTd_i9lPz9xNSN7i7ytb&ust=1623332992919000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODinufYivECFQAAAAAdAAAAABAD)
+  
+  }
+  .cdiv
+  {
+    background-color:black;
+    overflow:hidden;
+  }
+  .cdiv a
+  {
+    font-family: Arial, Helvetica, sans-serif;
+    padding:14px 16px;
+    display:block;
+    float:left;
+    color:white;
+    text-decoration:none;
+    font-size:20px;
+  } 
+  #a1
+  {
+    float:right;
+    margin-right: 20px;
+
+  }
+  .cdiv a:hover
+  {
+    background-color: royalblue;
+    color:white;
+  }
